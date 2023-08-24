@@ -80,7 +80,7 @@ class Home extends Component {
                 className="text-area"
               />
               <button type="submit" className="add-button">
-                Add Comment
+                Add Task
               </button>
             </form>
 
